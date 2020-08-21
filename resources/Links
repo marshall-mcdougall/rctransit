@@ -1,0 +1,28 @@
+Links:
+
+Go Train/Up Express
+https://www.gotransit.com/en/information-resources/software-developers
+
+TTC/Open Data
+https://open.toronto.ca/dataset/ttc-real-time-next-vehicle-arrival-nvas/
+
+Latitude and Longitude of Rogers Centre
+
+43.6418° N, 79.3891° W
+
+Parsing GTFS
+https://medium.com/@BennettGarner/parsing-gtfs-format-transit-data-in-real-time-with-python-3a528ba7aab7
+https://developers.google.com/transit/gtfs/reference/?csw=1
+
+Uber
+https://developer.uber.com/docs/riders/references/api/v1.2/estimates-time-get
+
+Traffic API
+https://mobility.here.com/learn/traffic-apis-5-powerful-options-supercharge-your-application#:~:text=Google%20Maps%20API%20Traffic%20Layer,-What%20is%20Google&text=It%20also%20provides%20route%20and,%2C%20bicycle%2C%20or%20public%20transport.&text=The%20Google%20Maps%20Javascript%20API,your%20own%20content%20and%20imagery.
+
+Waze iframe
+https://developers.google.com/waze/iframe
+https://developers.google.com/maps/documentation/javascript/trafficlayer
+
+Mapquest
+https://developer.mapquest.com/documentation/traffic-api/flow/get/
